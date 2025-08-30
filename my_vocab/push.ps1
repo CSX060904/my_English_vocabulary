@@ -19,3 +19,4 @@ catch {
     Write-Host "💡 Check your git status and connection." -ForegroundColor Yellow
 }
 pause # 按任意键关闭窗口
+.\push_advanced_robust.ps1
